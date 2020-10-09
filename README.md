@@ -2,7 +2,7 @@
 
 Description:
 
-Analyzed Google Playstore apps data and created an interactive dashboard using Tableau.
+Analyzed Google Playstore apps data and created an interactive dashboard using Tableau to understand what type of apps are being used by the users.
 
 Dataset:
 
